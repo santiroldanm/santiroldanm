@@ -72,7 +72,7 @@ I’ll be more than happy to help and share what I know.
 </table>
 
 <p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
+  <img  src="https://github.com/santiroldanm/snake/blob/main/github-user-contribution%20(1).svg"
     alt="example" />
 </p>
 
