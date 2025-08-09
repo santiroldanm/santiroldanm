@@ -9,21 +9,15 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-
-## 👨‍💻 About Me  
+<picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>  
 🎓 **Software Development Student**  
 💻 Expanding my skills in **Front-End** & **Back-End** development  
 💡 Passionate about creating **innovative**, **productive**, and **creative** solutions  
 🤝 Love collaborating on **open-source projects**  
 
----
-
 ## 📚 Currently Learning  
 - 🟦 **Nest.js**  
 - 🔴 **Angular**  
-
----
 
 💬 Ask me anything!
 I’ll be more than happy to help and share what I know.
