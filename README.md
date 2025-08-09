@@ -10,19 +10,25 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-Hi there! I'm Santiago Roldán, a passionate Software Development Student 🇨🇴.
 
-🚀 I’m expanding my skills in both front-end and back-end development, always eager to learn, create, and bring innovative, productive, and creative ideas to life.
+## 👨‍💻 About Me  
+🎓 **Software Development Student**  
+💻 Expanding my skills in **Front-End** & **Back-End** development  
+💡 Passionate about creating **innovative**, **productive**, and **creative** solutions  
+🤝 Love collaborating on **open-source projects**  
 
-💡 I’m especially enthusiastic about contributing to open-source projects and collaborating with developers from all over the world.
+---
 
-📚 Currently learning:
+## 📚 Currently Learning  
+- 🟦 **Nest.js**  
+- 🔴 **Angular**  
 
-Nest.js
+---
 
-Angular
+💬 Ask me anything!
+I’ll be more than happy to help and share what I know.
 
-🤝 Ask me anything — I’ll be more than happy to help!
+✨ Always learning. Always building.
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
