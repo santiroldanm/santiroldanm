@@ -10,7 +10,7 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
-Hi there! I'm Santiago Roldán, a passionate Software Development student at Institución Universitaria ITM.
+Hi there! I'm Santiago Roldán, a passionate Software Development Student 🇨🇴.
 
 🚀 I’m expanding my skills in both front-end and back-end development, always eager to learn, create, and bring innovative, productive, and creative ideas to life.
 
