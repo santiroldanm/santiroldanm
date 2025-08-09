@@ -48,9 +48,7 @@ I’ll be more than happy to help and share what I know.
 
 ## 🛠️ My Skills
 <p align="center">
-  <a href="">
     <img src="https://skillicons.dev/icons?i=git,css,github,html,java,js,py,react,spring,tailwind&perline=5" />
-  </a>
 </p>
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
