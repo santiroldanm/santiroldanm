@@ -10,13 +10,19 @@
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
 <picture> <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width = 300px></picture>
+Hi there! I'm Santiago Roldán, a passionate Software Development student at Institución Universitaria ITM.
 
-- :school: I am a `Software Development Student` at [Institución Universitaria ITM]
-- :trophy: `2022 MCM/ICM` Finalist **&** 4x `Scholarship`
-- :technologist: **Currently working on** `Frontend Development` **&** `Data Science`
-- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)](mailto:eliochiu2@gmail.com)
-- :nerd_face: Always believe `"You are what you loved"`
+🚀 I’m expanding my skills in both front-end and back-end development, always eager to learn, create, and bring innovative, productive, and creative ideas to life.
+
+💡 I’m especially enthusiastic about contributing to open-source projects and collaborating with developers from all over the world.
+
+📚 Currently learning:
+
+Nest.js
+
+Angular
+
+🤝 Ask me anything — I’ll be more than happy to help!
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
