@@ -5,11 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Development+Student;">
 </p>
-🎓 **Software Development Student**  
-💻 Expanding my skills in **Front-End** & **Back-End** development  
+<p>💻 Expanding my skills in **Front-End** & **Back-End** development  
 💡 Passionate about creating **innovative**, **productive**, and **creative** solutions  
-🤝 Love collaborating on **open-source projects**  
-
+🤝 Love collaborating on **open-source projects**  </p>
 ## 📚 Currently Learning  
 - 🟦 **Nest.js**  
 - 🔴 **Angular**  
