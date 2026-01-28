@@ -13,7 +13,7 @@
 🤝 Love collaborating on open-source projects
 
 📚 Currently Learning  
-- 🟦 **React**  
+- 🟥 **Angular**  
 - 🟩 **Spring Boot** 
 
 💬 Ask me anything!
@@ -31,6 +31,9 @@ I’ll be more than happy to help and share what I know.
     <a href="https://github.com/santiroldanm/Urbify">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiroldanm&repo=SwiftPost&theme=dark" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/santiroldanm/QRventory">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiroldanm&repo=QRventory&theme=dark" alt="GitHub Stats" />
+    </a>
      <a href="https://github.com/santiroldanm/Buscador-Peliculas-JS">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiroldanm&repo=Buscador-Peliculas-JS&theme=dark" alt="GitHub Stats" />
     </a>
@@ -39,9 +42,6 @@ I’ll be more than happy to help and share what I know.
     </a>
     <a href="https://github.com/santiroldanm/Calculadora-JavaScript">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiroldanm&repo=Calculadora-JavaScript&theme=dark" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/santiroldanm/Juego-Adivina-JavaScript">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=santiroldanm&repo=Juego-Adivina-JavaScript&theme=dark" alt="GitHub Stats" />
     </a>
   </p>
 </div>
